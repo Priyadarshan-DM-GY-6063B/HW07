@@ -48,8 +48,6 @@ Words respond to mouse proximity by:
 
 ---
 
-## How It Meets Requirements
-
 1. **Clear Quote Display**  
    - The quote is displayed in a typewriter-style animation, ensuring clarity and readability.
 
